@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F624-0872
+
+ Directory of C:\Users\nirur\OneDrive\Desktop\DEMO PROJECT FOR GIT
+
+06/02/2022  08:35    <DIR>          .
+06/02/2022  08:35    <DIR>          ..
+06/02/2022  08:35                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  98,444,865,536 bytes free
